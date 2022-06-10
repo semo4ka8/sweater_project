@@ -11,7 +11,7 @@ Input data will contain:
 - height in rows.
 
 2. Desired sweater measurments:
-![Sweater-measurments]("E:\\Semo4ka\\Python\\sweter_project\\sweatshirt-measurments.jpg")
+![Sweater measurments](sweatshirt-measurments.jpg)
 - A - bust half,
 - B - length total,
 - C - length bottom to armpit,
