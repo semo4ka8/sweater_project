@@ -11,13 +11,16 @@ Input data will contain:
 - height in rows.
 
 2. Desired sweater measurments:
-- neck around,
-- bust half,
-- under arm half,
-- length total,
-- length bottom to armpit,
-- sleave wrist to armpit,
-- neckopening height.
+![Sweater-measurments]("E:\\Semo4ka\\Python\\sweter_project\\sweatshirt-measurments.jpg")
+- A - bust half,
+- B - length total,
+- C - length bottom to armpit,
+- D - neckopening height.
+- E - under arm half,
+- F - sleave wrist half,
+- G - sleave wrist to armpit,
+- H - neck around.
+
 
 Based on sample and desired sweater measurments, this calculator should tell row by row instructions about:
 - how many stiches are required to start,
